@@ -1,0 +1,17 @@
+#utils
+numpy
+pandas
+# face recognition
+scikit-learn
+
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0 #this is used to use the packages from github
+
+#data
+supabase
+bcrypt
+
+segno #for qr code
+pillow #used for image pre processing
+
+streamlit 
