@@ -15,3 +15,6 @@ segno #for qr code
 pillow #used for image pre processing
 
 streamlit 
+
+librosa
+resemblyzer
